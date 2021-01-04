@@ -50,7 +50,7 @@ const testimonials = [
       "Are you still reading these? I'm impressed. You've got the patience of a saint!",
   },
   {
-    name: 'Walk Whitman',
+    name: 'Walt Whitman',
     position: 'Director',
     photo: 'https://randomuser.me/api/portraits/men/2.jpg',
     text:
