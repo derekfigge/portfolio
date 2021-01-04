@@ -9,7 +9,7 @@ const testimonials = [
     name: 'Sylvia Plath',
     position: 'Marketing',
     photo:
-      'https://randomuser.me/api/portraits/men/4.jp',
+      'https://randomuser.me/api/portraits/women/6.jpg',
     text:
       "I couldn't be happier with this product and/or service! It meets my various and particular needs, in indescribable ways!",
   },
